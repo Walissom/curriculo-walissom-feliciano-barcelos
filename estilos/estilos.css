@@ -55,7 +55,7 @@ h2{
     min-height: 10px;/*Define uma altura minima para a DIV entretanto ela crecerá automaticamente*/
     min-width: 40px;
     text-align: justify;
-   padding: 40px;
+    padding: 40px;
     border: 20px;
     color: #111;
 }
