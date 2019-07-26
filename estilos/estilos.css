@@ -1,0 +1,72 @@
+/* Arquivo CSS Utilizado no HTML "Curriculo - Walissom Feliciano Barcelos"*/
+
+/*----------------------------------------------------------------------------*/
+/*TAGS*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family:monospace;
+}
+
+/*----------------------------------------------------------------------------*/
+
+/*
+body{
+    background-color: white;
+    font-family: monospace ;
+    
+}
+*/
+/*----------------------------------------------------------------------------*/
+header{
+    background: linear-gradient(135deg, #35b8b0 0%,#1c799d 100%);
+    min-height: 10px;
+    min-width: 20px;
+    padding: 20px;
+    color: #111;
+    text-align: center;
+    text-shadow: 1px 1px 1px #111111;
+    
+}
+/*----------------------------------------------------------------------------*/
+footer{
+    background: linear-gradient(135deg, #35b8b0 0%,#1c799d 100%);
+    height: 40px;
+    min-width: 40px;
+    text-align: center;
+    color: #111;
+    font-size: 14px;
+    font-weight: bold;
+    padding:20px 20px 0px 0px;
+}
+/*----------------------------------------------------------------------------*/
+h2{
+    text-shadow: 1px 1px 1px #111111;
+}
+/*----------------------------------------------------------------------------*/
+/*IDs*/
+#div_principal{
+    
+    background: linear-gradient(135deg, #FFFFFF 0%,#1c799d 100%);   
+    /*
+    background-image:url('C:/Users/walissom.barcelos/Documents/Exemplos Brackets/imagens/fundo3.jpeg');
+    background-size: 100%;
+    */
+    min-height: 10px;/*Define uma altura minima para a DIV entretanto ela crecerá automaticamente*/
+    min-width: 40px;
+    text-align: justify;
+    padding: 100px;
+    color: #111;
+}
+/*----------------------------------------------------------------------------*/
+/*CLASS*/
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+/*----------------------------------------------------------------------------*/
+.efeito{
+    background-color: rgba(0,0,0,0.1);
+    padding: 0
+}
+ 
