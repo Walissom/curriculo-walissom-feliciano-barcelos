@@ -4,7 +4,7 @@
 /*TAGS*/
 *{
     margin: 0;
-    padding: 0;
+    /*padding: 0;*/
     font-family:monospace;
 }
 
@@ -37,7 +37,7 @@ footer{
     color: #111;
     font-size: 14px;
     font-weight: bold;
-    padding:20px 20px 0px 0px;
+    padding:20px;
 }
 /*----------------------------------------------------------------------------*/
 h2{
@@ -47,15 +47,16 @@ h2{
 /*IDs*/
 #div_principal{
     
-    background: linear-gradient(135deg, #FFFFFF 0%,#1c799d 100%);   
     /*
+    background: linear-gradient(135deg, #FFFFFF 0%,#1c799d 100%);   
     background-image:url('C:/Users/walissom.barcelos/Documents/Exemplos Brackets/imagens/fundo3.jpeg');
     background-size: 100%;
     */
     min-height: 10px;/*Define uma altura minima para a DIV entretanto ela crecerá automaticamente*/
     min-width: 40px;
     text-align: justify;
-    padding: 100px;
+   padding: 40px;
+    border: 20px;
     color: #111;
 }
 /*----------------------------------------------------------------------------*/
@@ -66,7 +67,7 @@ h2{
 }
 /*----------------------------------------------------------------------------*/
 .efeito{
-    background-color: rgba(0,0,0,0.1);
-    padding: 0
+    background-color: rgba(0,0,0,0.2);
+    padding: 20px;
 }
  
